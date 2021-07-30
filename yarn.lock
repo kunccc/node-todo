@@ -225,6 +225,15 @@ node-todo-hee@^0.0.2:
     inquirer "^8.1.2"
     node-todo-hee "^0.0.1"
 
+node-todo-hee@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.npmjs.org/node-todo-hee/-/node-todo-hee-0.0.3.tgz#6bd14ce15ab938c9fa50b5aef38827ae97a81d0d"
+  integrity sha512-fELqmfZ/d4M2pd6ciIBNkR76p0buJFHsl2JivzXAqy0dDWRUYI9WPK7iIVXR/FigzUZ6Cq2loLGzP8N83uvxTA==
+  dependencies:
+    commander "3.0.2"
+    inquirer "^8.1.2"
+    node-todo-hee "^0.0.2"
+
 onetime@^5.1.0:
   version "5.1.2"
   resolved "https://registry.npmjs.org/onetime/-/onetime-5.1.2.tgz#d0e96ebb56b07476df1dd9c4806e5237985ca45e"
